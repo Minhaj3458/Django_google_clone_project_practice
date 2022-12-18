@@ -1,1 +1,2 @@
-# Django_google_clone_project_practice
+# Project Video YouTube Link:
+https://youtu.be/ZxoI8Ir7haA
